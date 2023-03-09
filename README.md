@@ -1,4 +1,4 @@
-# Darey.io Project output #MERN STACK
+# Darey.io Project output #MERNSTACK
 
 In this project, I built a flexible foundation for serving PHP websites and applications to one's visitors, using Nginx as web server and MySQL as database management system. I have uploaded screenshots of the results of several stages of the MERN installation.
 
