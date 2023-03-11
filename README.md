@@ -32,4 +32,3 @@ In this project #3, I  created a simple To-Do app and deployed it to MERN stack.
 ### My Project has all these images in an img subdir named images, see below
 
 [https://github.com/zidon4real/MERNProject/tree/master/images]
-
