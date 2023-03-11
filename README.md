@@ -33,4 +33,4 @@ In this project #3, I  created a simple To-Do app and deployed it to MERN stack.
 
 [https://github.com/zidon4real/MERNProject/tree/master/images]
 
-## see Readme.md documentations here [https://github.com/zidon4real/Project3/blob/main/README.md] [END]
+## see Readme.md documentations here [https://github.com/zidon4real/MERNProject/blob/master/README.md] [END]
