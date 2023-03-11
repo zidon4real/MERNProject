@@ -4,7 +4,7 @@
 
 In this project #3, I  created a simple To-Do app and deployed it to MERN stack. Also, I have written a frontend application using React.js that communicates with a backend application written using Expressjs. Lastly, I  created a Mongodb backend for storing tasks in a database.
 
-## My Project3 has an img subdir named images, see below
+## My Project3 has an screenshots of different dev stages,see below
 
 [see listing of all screenshots of different implementation stages](https://github.com/zidon4real/MERNProject/tree/master/images)
 
@@ -27,6 +27,10 @@ In this project #3, I  created a simple To-Do app and deployed it to MERN stack.
 
 ![postman post request result.png](https://github.com/zidon4real/MERNProject/blob/master/images/postman%20post%20request%20result.png)
 
-![react app dev.png](https://github.com/zidon4real/MERNProject/blob/master/images/react%20app%20dev.png)
+![react app dev.png](https://github.com/zidon4real/MERNProject/blob/master/images/react%20app%20dev.png).
 
-see Readme.md documentations here [https://github.com/zidon4real/Project3/blob/main/README.md] [END]
+### My Project has all these images in an img subdir named images, see below
+
+[https://github.com/zidon4real/MERNProject/tree/master/images]
+
+## see Readme.md documentations here [https://github.com/zidon4real/Project3/blob/main/README.md] [END]
