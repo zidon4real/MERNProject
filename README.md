@@ -1,6 +1,6 @@
 # Darey.io Project output #MERN STACK
 
-In this project, I built a  I have uploaded screenshots of the results of several stages of the LEMP installation.
+In this project, I built
 
 My Project3 has an img subdir named images, see below.
 
